@@ -1,9 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Hangman
-*[Karthik Arumugam]*
 
-*[Data Analytics Bootcamp Jan 2021, Barcelona, ]*
 
 ## Content
 - [Project Description](#Project Description)
@@ -49,14 +47,3 @@ I split the program into 6 functions -
  Finally I designed the hangman function which connects all the functions and is the heart of the game.
  
 
-## Organization
-
-I used the kanban board from Trello to organize my work. All 6 function modules are defined in the hang_man.py file. 
-
-## Links
-
-https://github.com/karthik-aru/Project-Week-1-Build-Your-Own-Game
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
