@@ -3,14 +3,6 @@
 # Hangman
 
 
-## Content
-- [Project Description](#Project Description)
-- [Project Description](#Project Description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
-
 ## Project Description
 The game hangman allows the player to guesse a word (from a list of movies) randomly chosen by the computer.
 I have included several features that exploit the use of if conditional statments, while loops, string/list indexing and manipulation and modular programming.
